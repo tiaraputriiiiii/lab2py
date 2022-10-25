@@ -85,5 +85,6 @@ print("Saya sedang belajar pemrograman")
     print("Hasil pembagian {1}/{0}=%s".format(a,b)%(a/b))
 ![2022-10-24 (13)](https://user-images.githubusercontent.com/115775237/197460663-793e52d9-9bbb-45fe-8e92-41bcce03a531.png)
 • Jika sudah klik *Run* dan *Run Module* maka akan keluar hasil seperti gambar dibawah.
+![2022-10-25](https://user-images.githubusercontent.com/115775237/197658098-f482b040-ad73-4225-bc94-c8d2152242ff.png)
 
 
